@@ -1,7 +1,7 @@
 // defino mis tipos de monedas
 // alert() funciona ;)
 const tiposCambio = {
-    ARS: { USD: 0.015, EUR: 0.013, BRL: 0.086, PYG: 94.23 },
+    ARS: { USD: 0.0026, EUR: 0.013, BRL: 0.086, PYG: 94.23 },
     USD: { ARS: 380.50, EUR: 0.852, BRL: 5.47, PYG: 5976.49 },
     EUR: { ARS: 410.50, USD: 1.172, BRL: 6.37, PYG: 6956.69 },
     BRL: { ARS: 70.50, USD: 0.183, EUR: 0.157, PYG: 1091.60 },
